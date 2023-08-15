@@ -1,26 +1,18 @@
 # Presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
 
-Ya saben usar git!
+## Estudiante: Valentín Domingo Pugliese
 
 
-## Estudiante: Nombre estudiante
 
-Descripción
+Buenas, me llamo Valentín Pugliese, soy estudiante del segundo año de la carrera Tecnicatura en Programación Informática de la UNSAM.
 
-Foto de mi persona:
+Me gustan los jueguitos, el deporte y la programación.
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+Este soy yo:
 
-Diente de Leon
+[![d](https://images7.memedroid.com/images/UPLOADED928/61eaa2fcc21dc.jpeg)
 
-------
+(Imagen Ilustrativa)
 
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
